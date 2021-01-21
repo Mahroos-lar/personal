@@ -1,0 +1,43 @@
+6eadb22 refs/heads/master@{0}: reset: moving to 6eadb22
+6eadb22 HEAD@{0}: reset: moving to 6eadb22
+734dd05 refs/heads/master@{1}: commit: After revert
+734dd05 HEAD@{1}: commit: After revert
+6eadb22 refs/heads/master@{2}: commit: test revert
+6eadb22 HEAD@{2}: commit: test revert
+55f1b8a refs/heads/master@{3}: commit (amend): commit for revert
+55f1b8a HEAD@{3}: commit (amend): commit for revert
+6aa0739 refs/heads/master@{4}: commit: tetttttsting
+6aa0739 HEAD@{4}: commit: tetttttsting
+167445e refs/heads/master@{5}: commit (amend): Fixing google
+167445e HEAD@{5}: commit (amend): Fixing google
+c7281e4 refs/heads/master@{6}: commit: Fixing
+c7281e4 HEAD@{6}: commit: Fixing
+dfa19eb refs/heads/master@{7}: commit (merge): Fix teacher conflict
+dfa19eb HEAD@{7}: commit (merge): Fix teacher conflict
+6ee671e HEAD@{8}: checkout: moving from update-header to master
+2145783 refs/heads/update-header@{0}: commit: Improve Header
+2145783 HEAD@{9}: commit: Improve Header
+39442f7 HEAD@{10}: checkout: moving from master to update-header
+39442f7 refs/heads/update-header@{1}: branch: Created from sidebar
+6ee671e refs/heads/master@{8}: commit: Change Header
+6ee671e HEAD@{11}: commit: Change Header
+81ab9d0 refs/heads/master@{9}: commit (merge): fix conflict sidebar
+81ab9d0 HEAD@{12}: commit (merge): fix conflict sidebar
+8d23fa5 refs/heads/master@{10}: merge footer: Fast-forward
+8d23fa5 HEAD@{13}: merge footer: Fast-forward
+a56ad3e HEAD@{14}: checkout: moving from footer to master
+8d23fa5 refs/heads/footer@{0}: commit: Add footer code
+8d23fa5 HEAD@{15}: commit: Add footer code
+a56ad3e HEAD@{16}: checkout: moving from master to footer
+a56ad3e refs/heads/footer@{1}: branch: Created from master
+a56ad3e HEAD@{17}: checkout: moving from sidebar to master
+39442f7 refs/heads/sidebar@{0}: commit: Add sidebar code
+39442f7 HEAD@{18}: commit: Add sidebar code
+b20cd0b HEAD@{19}: checkout: moving from master to sidebar
+b20cd0b refs/heads/sidebar@{1}: branch: Created from b20cd0b
+a56ad3e refs/heads/master@{11}: commit: Add css code
+a56ad3e HEAD@{20}: commit: Add css code
+b20cd0b refs/heads/master@{12}: commit: Add html code
+b20cd0b HEAD@{21}: commit: Add html code
+26ae250 refs/heads/master@{13}: commit (initial): init commit
+26ae250 HEAD@{22}: commit (initial): init commit
